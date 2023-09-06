@@ -1,2 +1,2 @@
 hello login txt
-change by master
+file has been changed in new branch
