@@ -4,4 +4,8 @@ hi new text
 
 another change in new txt
 
+<<<<<<< HEAD
 this is from master
+=======
+hello from new branch
+>>>>>>> new-branch
